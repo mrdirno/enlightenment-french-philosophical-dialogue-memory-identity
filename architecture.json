@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-philosophical-dialogue-memory-identity",
+  "title": "The Parliament of Ghosts",
+  "tagline": "A philosopher must interrogate a dying man's impossible memory to discover what happens when the self becomes a crowded house.",
+  "target_words": 70000,
+  "actual_words": 71799,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Fragility of Self",
+    "Memory as Inheritance",
+    "Philosophical Haunting",
+    "The Ethics of Consciousness"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of Salt",
+      "words": 2990
+    },
+    {
+      "ch": 2,
+      "title": "The Château de Saint-Clair",
+      "words": 2990
+    },
+    {
+      "ch": 3,
+      "title": "The Man with the London Memory",
+      "words": 2990
+    },
+    {
+      "ch": 4,
+      "title": "Interrogation by Firelight",
+      "words": 2990
+    },
+    {
+      "ch": 5,
+      "title": "The Library of Unburned Manuscripts",
+      "words": 2990
+    },
+    {
+      "ch": 6,
+      "title": "Élise and the Silent Archive",
+      "words": 2990
+    },
+    {
+      "ch": 7,
+      "title": "The First Anomaly",
+      "words": 2990
+    },
+    {
+      "ch": 8,
+      "title": "A Theory of Transference",
+      "words": 2990
+    },
+    {
+      "ch": 9,
+      "title": "Saint-Clair's Ledger of Certainty",
+      "words": 2990
+    },
+    {
+      "ch": 10,
+      "title": "The Fever and the Door",
+      "words": 2990
+    },
+    {
+      "ch": 11,
+      "title": "Condillac's Statue Weeps",
+      "words": 2990
+    },
+    {
+      "ch": 12,
+      "title": "The Second Memory: A Silk Weaver's Daughter",
+      "words": 2990
+    },
+    {
+      "ch": 13,
+      "title": "The Anatomy of a Ghost",
+      "words": 2990
+    },
+    {
+      "ch": 14,
+      "title": "A Letter from D'Alembert",
+      "words": 2990
+    },
+    {
+      "ch": 15,
+      "title": "The Uninvited Guest in the Mind",
+      "words": 2990
+    },
+    {
+      "ch": 16,
+      "title": "Élise's Hypothesis",
+      "words": 2990
+    },
+    {
+      "ch": 17,
+      "title": "The Ritual of Recall",
+      "words": 2990
+    },
+    {
+      "ch": 18,
+      "title": "A Crack in the Vessel",
+      "words": 2990
+    },
+    {
+      "ch": 19,
+      "title": "Saint-Clair's Ultimatum",
+      "words": 2990
+    },
+    {
+      "ch": 20,
+      "title": "The Third Memory: The Philosopher's Despair",
+      "words": 2990
+    },
+    {
+      "ch": 21,
+      "title": "The Fragmentation",
+      "words": 2990
+    },
+    {
+      "ch": 22,
+      "title": "The Choice of Tenancy",
+      "words": 2990
+    },
+    {
+      "ch": 23,
+      "title": "The Last Morning at Whitehall",
+      "words": 2990
+    },
+    {
+      "ch": 24,
+      "title": "The First Line of the Masterwork",
+      "words": 2999
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the 'London Memory' itself—the consciousness of the witness to Charles I's execution, aware it is housed in a dying Frenchman.",
+      "Create a side-story about Élise, the archivist, discovering a hidden journal in the library that details a failed 17th-century experiment in 'consciousness transfer'.",
+      "Write a philosophical dialogue between Armand and a hallucinated version of John Locke, debating whether identity requires memory continuity or merely consciousness.",
+      "Craft a 'lost chapter' where Armand experiences a fleeting, invasive memory that is not his own, forcing him to confront the phenomenon firsthand."
+    ],
+    "technical": [
+      "Build an interactive 'Memory Atlas' that maps the connections between the novel's characters and the invasive memories they carry, visualizing the network of consciousness.",
+      "Design a text-generation model trained on Enlightenment philosophical texts to generate new 'impossible memories' in the style of the novel, as potential expansions."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John Locke (on personal identity and memory)",
+      "Denis Diderot (on materialism and the mind's theatre)",
+      "Madame de Staël (on passion, intellect, and the inner life)",
+      "Jorge Luis Borges (on labyrinths, memory, and philosophical fiction)"
+    ]
+  },
+  "cover_prompt": "A gaunt, dying man sits upright in a threadbare armchair, his translucent form superimposed over a spectral parliament of his own fading memories, each ghostly figure debating in silent, urgent gestures within the crumbling library of his mind. The scene is set in a dim, 18th-century French study at midnight, with philosophical treatises and dusty folios floating like ghosts, and a single, impossible window showing a starless void, embodying the fragility of inherited consciousness. In the atmospheric style of Caspar David Friedrich meets the psychological etchings of William Blake, with the chiaroscuro depth of Rembrandt and the symbolic weight of traditional allegorical painting. Book cover framing, centered composition with the dying man as the focal point, viewed from a low, dramatic angle as if the viewer is a supplicant before this metaphysical court. Dramatic tenebrism lighting with a single candle guttering on a desk, casting long, conflicting shadows from the multiple ghostly selves, using a somber color palette of deep umbers, burnt sienna, and ethereal cool greys with faint, ghostly cerulean highlights. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
