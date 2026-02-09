@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 “The first thing I remember is the taste of salt,” the man said, his voice a dry rustle in the salon’s hush. “But I have never seen the sea.” Across the marble table, his interlocutor did not write this down. He merely watched the man’s hands, which were clean and steady, and wondered which of them was the forgery.
@@ -118,6 +120,8 @@ Claude’s eyes opened. They were full of a distance that took years to cross. H
 “He is here,” Elise said from the doorway, her voice tight.
 
 And in that moment, Armand de Valère, the philosopher of the unified self, understood that everything he believed was a beautiful, logical fiction. The parliament of ghosts was real. And one of them was speaking through the lips of a dying French aristocrat, in a room that smelled of beeswax and decay, telling him a truth that would undo the world.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -273,6 +277,8 @@ He also thought of Julien, in his study of land and ledgers, already constructin
 And he thought of himself, the fraud philosopher, who had come to explain a ghost and was now beginning to fear he would meet one. The stakes were no longer just a book, or a family’s peace. They were the very nature of identity, time, and the walls of the self.
 
 He blew out the candle. In the dark, the château felt like a ship adrift on a black, timeless sea. And in its hold, something ancient and angry was knocking softly against the walls of a dying man’s mind.
+
+# Chapter 3
 
 ## **Chapter 3**
 
